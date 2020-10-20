@@ -1,3 +1,14 @@
-"# MediaSoft_Practica" 
-"# MediaSoft_Practica" 
-"# MediaSoft_Practica" 
+# Практика MediaSoft
+##### Выполнил : Надршин Никита
+
+## Менеджер ресурсов(склада)
+### assets/ - css
+### images - папка для загрузки фото рецептов
+## 
+### login.php - форма авторизации
+### register.php - форма регистрации
+### main_page.php - главная страница
+### Order_Form.php - форма заказа
+### Remove_Form.php - форма списания определенного кол-ва товаров
+### delete_product_form.php - форма удаление товаров из БД
+### add_new_product.php - добавления нового товара в БД

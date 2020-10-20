@@ -34,7 +34,7 @@ $stmt = $pdo->execute($sql,[$_GET['id']]);
             </p>
  <tr>
      <td>
-         <a href="description_product_form.php?id=<?=$stmt['ID'] ?>">
+         <a>
             <img src="../images/<?= $stmt['imagename'] ?>" alt="error">
          </a>
      </td>

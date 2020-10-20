@@ -19,8 +19,7 @@ $products = $pdo->SelectProduct();
 <body>
 
 <?php echo ("Hello " . $_SESSION['username']." "); ?>
-<a href = 'logout.php' class = btn-primary'>Logout <a>
-        <a href= "personal_area.php">Личный кабинет</a>
+<a href = 'logout.php' class = btn-primary'>Logout </a>
         <form action="supplies.php" method="post" enctype="multipart/form-data">
             <button>Склад</button>
         </form>
